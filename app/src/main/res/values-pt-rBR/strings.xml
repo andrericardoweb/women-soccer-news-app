@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notícias do Futebol Feminino</string>
+    <string name="title_news">Notícias</string>
+    <string name="title_favorite">Favoritos</string>
+    <string name="cd_news_image">Imagem da notícias</string>
+    <string name="cd_favorite_icon">Ícone de favoritar</string>
+    <string name="cd_share_icon">Ícone de compartilhar</string>
+
+    <string name="txt_open_link">Abrir Link</string>
+
+    <string name="error_network">Erro de rede</string>
+</resources>

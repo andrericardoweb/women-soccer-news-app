@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Women\'s Soccer News</string>
+    <string name="title_news">News</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="cd_news_image">News image</string>
+    <string name="cd_favorite_icon">Favorite icon</string>
+    <string name="cd_share_icon">Share icon</string>
+
+    <string name="txt_open_link">Open Link</string>
+
+    <string name="error_network">Network error</string>
+</resources>
