@@ -1,4 +1,4 @@
-package dev.andrericardo.womensoccernews;
+package dev.andrericardo.womensoccernews.ui;
 
 import android.os.Bundle;
 
@@ -10,6 +10,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import dev.andrericardo.womensoccernews.R;
 import dev.andrericardo.womensoccernews.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
